@@ -107,7 +107,7 @@ By paying off early, the borrower saved **$1,726** in interest—significantly r
 
 ## Step 4: The Unexpected Refund
 
-After early repayment,the borrower received a **refund of $192.24** from the bank on **April 1, 2025**.
+After early repayment, the borrower received a **refund of $192.24** from the bank on **April 1, 2025**.
 
 ### Reason for the Refund:
 1. **Refund of Unearned Interest:** The bank expected to earn $4,023.53 in interest over 59 months but only received $2,298, leading to a refund of the unearned portion.
