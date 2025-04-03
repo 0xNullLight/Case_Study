@@ -36,7 +36,7 @@ Before disbursing any funds, a borrower must sign a **Promissory Note** as part 
 
 ## **Step 1: Understanding the Loan Terms**
 
-After the borrower signs the Promissory Note, the lender provides a **TILA Notice** from **FinWise Bank** outlining these details:
+After the borrower signs the Promissory Note,the lender provides a **TILA Notice** from **FinWise Bank** outlining these details:
 
 - **Loan Amount Requested:** $4,500  
 - **Origination Fee (Processing Fee):** $540  
