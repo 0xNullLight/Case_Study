@@ -6,9 +6,46 @@ Taking out a loan is often an essential part of managing personal finances, whet
 Whether you're a beginner in personal finance or looking to improve your financial strategies, **this guide and case study** will provide you with valuable insights.
 
 ---
+## **Step 0: Promissory Note**
+In our case study, **before the borrower receives the personal loan**, they would have to **sign a Promissory Note** as part of the loan agreement.  
+
+### **Process Before Receiving the Loan:**  
+1. **Loan Application:** The borrower applies for the loan and provides necessary financial details.  
+2. **TILA Disclosure:** The lender presents a **Truth in Lending Act (TILA) Notice**, outlining the **APR, total loan cost, and repayment terms** to ensure transparency.  
+3. **Promissory Note Signing:** The borrower **must sign the Promissory Note**, legally agreeing to repay the loan under the specified conditions.  
+4. **Loan Disbursement:** After signing, the lender transfers the loan amount (minus any fees, like origination fees) to the borrower's account.  
+
+Since the **Promissory Note is legally binding**, once the borrower signs it, they are fully obligated to **repay the loan according to the terms**, even if their financial situation changes. It outlines the loan amount, interest rate, repayment schedule, and consequences of non-payment.
+
+### **Key Elements of a Promissory Note:**
+
+1.  **Loan Amount (Principal):** The total amount borrowed.
+    
+2.  **Interest Rate:** The percentage charged for borrowing the money.
+    
+3.  **Repayment Terms:** Details on how and when the loan must be repaid (e.g., monthly payments, lump sum, etc.).
+    
+4.  **Lender and Borrower Information:** Names and contact details of both parties.
+    
+5.  **Maturity Date:** The final due date for full repayment.
+    
+6.  **Late Fees and Default Consequences:** Penalties for missed payments and lender actions in case of default.
+    
+7.  **Collateral (if applicable):** Whether the loan is secured by an asset (like a car or house).
+    
+
+### **Why Is It Important?**
+
+-   **Legal Protection:** Serves as a formal agreement enforceable in court.
+    
+-   **Clarity:** Clearly defines repayment obligations and terms.
+    
+-   **Creditworthiness:** Some promissory notes are reported to credit bureaus, affecting the borrower's credit score.
+
+---
 
 ## **Step 1: Understanding the Original Loan Terms**  
-In our case study, the borrower took out a **personal loan** from **FinWise Bank** with the following details:
+After the **Promissory Note** agreement from the **FinWise Bank**, the borrower was given a **TILA Notice**. Below is the following details:
 
 - **Loan Amount Requested:** $4,500  
 - **Origination Fee (Processing Fee):** $540  
@@ -18,6 +55,24 @@ In our case study, the borrower took out a **personal loan** from **FinWise Bank
 - **Loan Term:** 59 months (about 5 years)  
 - **Total Repayment if Paid in Full:** $8,523.53  
 - **Total Interest Paid Over the Life of the Loan:** $4,023.53  
+
+### TILA Notice
+The **TILA Notice** refers to disclosures required under the **Truth in Lending Act (TILA)**, a U.S. federal law designed to promote transparency in lending. The TILA Notice ensures that borrowers receive clear and standardized information about the terms and costs of a loan before agreeing to it.
+
+### **Key Elements of a TILA Disclosure (TILA Notice):**
+1. **APR (Annual Percentage Rate)** – The total cost of borrowing, including interest and fees, expressed as a yearly percentage.
+2. **Finance Charge** – The total dollar amount of interest and fees the borrower will pay over the life of the loan.
+3. **Amount Financed** – The actual amount the borrower will receive after fees (e.g., origination fees) are deducted.
+4. **Total of Payments** – The total amount the borrower will have paid after making all scheduled payments.
+5. **Payment Schedule** – A breakdown of the number, amount, and due dates of all loan payments.
+6. **Prepayment Penalties or Terms** – If applicable, any charges for paying off the loan early.
+
+### **Purpose of the TILA Notice:**
+- Helps borrowers compare loan offers from different lenders.
+- Prevents hidden fees and misleading loan terms.
+- Protects consumers from predatory lending practices.
+
+---
 
 ### **What Is APR?**  
 The **APR (Annual Percentage Rate)** represents the total yearly cost of the loan, including interest and fees. In this case, the **35.56% APR** is considered **very high**. Typically, loans with APRs over 30% are considered expensive. This means the borrower will pay significantly more than they originally borrowed due to interest charges.
