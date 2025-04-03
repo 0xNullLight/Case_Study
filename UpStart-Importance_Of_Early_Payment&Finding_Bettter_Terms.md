@@ -1,6 +1,6 @@
 # Case Study on a UpStart Personal Loan | Comprehensive Guide: How to Save Money on Personal Loans by Paying Off Early and Finding Better Loan Terms
 
-## Introduction  
+## Introduction
 Taking out a loan is often an essential part of managing personal finances—whether you’re consolidating debt, buying a car, or covering unexpected expenses. However, loans come with a cost—primarily in the form of interest. The higher the interest rate, the more expensive the loan becomes.
 
 In this guide, we will:
