@@ -164,7 +164,7 @@ Teller Protocol is focused on **credit-based loans** and offers opportunities to
 - **Passive income generation**: Teller Protocol provides a steady stream of passive income from lending, with your assets remaining protected.
 
 ---
-## **Leverage Trading vs. 1:1 Spot Trading**
+# **Leverage Trading vs. 1:1 Spot Trading**
 
 Now that you have a basic understanding of lending, borrowing, recursive lending, and collateral stacking, it’s time to understand how these concepts fit into the broader context of leverage trading compared to **1:1 spot trading**.
 
@@ -232,7 +232,7 @@ Risk management teaches you the discipline needed to protect your capital and al
 
 ---
 
-## Conclusion: The Interconnection of All These Concepts
+# Conclusion: The Interconnection of All These Concepts
 
 Understanding lending, borrowing, recursive lending, collateral stacking, and the difference between leverage and 1:1 spot trading is crucial for developing a solid foundation in financial markets. However, these concepts are all intertwined and depend heavily on effective **risk management**.
 
