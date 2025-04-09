@@ -88,7 +88,7 @@ Deposit **ETH** as collateral, borrow **stablecoins** (like USDC), and use those
 
 ---
 
-### 1. Recursive Lending: Borrow, Reinvest, Repeat
+### Recursive Lending: Borrow, Reinvest, Repeat
 
 Recursive lending is the most dynamic form of self-lending. It allows you to increase exposure and borrowing capacity by continually borrowing against assets and reinvesting the borrowed funds.
 
