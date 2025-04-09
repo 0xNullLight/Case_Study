@@ -1,6 +1,6 @@
 # Mastering Self-Lending and OPM in DeFi: Strategies, Principles, and Key Approaches
 
-## 🧬 Introduction:
+# 🧬 Introduction:
 
 > **Collateral may be king, but it is the borrowing process that forms the foundation upon which risk management is built on.**
 
@@ -224,7 +224,7 @@ Leveraged positions require constant monitoring, as they can quickly become liqu
 
 ----------
 
-### **Why Risk Management is Crucial for Budgeting and Investing?**
+# **Why Risk Management is Crucial for Budgeting and Investing?**
 
 In order to budget effectively and make smart investment decisions, understanding how to manage risk is fundamental. Risk management in trading correlates with budgeting because it forces you to plan for worst-case scenarios. By applying the principles of risk management, you can avoid overextending yourself financially and ensure that you’re able to weather market volatility without jeopardizing your financial well-being.
 
