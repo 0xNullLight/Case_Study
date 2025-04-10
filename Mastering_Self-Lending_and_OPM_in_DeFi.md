@@ -1,6 +1,6 @@
 # Mastering Self-Lending and OPM in DeFi: Strategies, Principles, and Key Approaches
 
-# 🧬 Introduction:
+## 🧬 Introduction:
 
 > **Collateral may be king, but it is the borrowing process that forms the foundation upon which risk management is built on.**
 
@@ -33,7 +33,7 @@ These mechanisms are governed by protocol-specific **risk parameters**, which ma
 -   **Protocol Fee Structures**
 
 
-# Self-Lending & OPM (Other People's Money)
+## Self-Lending & OPM (Other People's Money)
 
 In DeFi, **self-lending** lets you borrow against your own assets without losing ownership, enabling **recursive borrowing and compounding**. **OPM** leverages **external liquidity** to gain exposure, generate yield, or fund positions without using personal capital or selling assets.
 
@@ -46,9 +46,7 @@ These strategies drive **capital efficiency**, **synthetic leverage**, and **liq
 -   **Self-repaying loans** via automated yield (e.g., Alchemix)
 -   **Yield farming with borrowed capital** for delta-neutral or directional strategies
     
-----------
-
-## What is Self-Lending?
+### What is Self-Lending?
 
 Self-lending allows borrowing against crypto assets, using the funds to scale exposure, generate passive income, or reinvest into more collateral. Unlike traditional lending, it lets users keep ownership while increasing borrowing power.
 
@@ -72,7 +70,7 @@ Self-lending lets you compound returns by continuously borrowing, reinvesting, a
 
 ---
 
-## Key Principles of OPM (Other People’s Money) in DeFi
+### Key Principles of OPM (Other People’s Money) in DeFi
 
 **OPM** in DeFi allows you to borrow assets from platforms or other participants without using your own funds directly. The borrowing is collateralized by your existing crypto holdings, enabling you to leverage other people's liquidity while maintaining exposure to your original assets.
 
@@ -86,9 +84,8 @@ Self-lending lets you compound returns by continuously borrowing, reinvesting, a
 💡 **Example**:  
 Deposit **ETH** as collateral, borrow **stablecoins** (like USDC), and use those stablecoins to generate passive income by staking them, all while your original ETH remains untouched.
 
----
 
-### Recursive Lending: Borrow, Reinvest, Repeat
+## Recursive Lending: Borrow, Reinvest, Repeat
 
 Recursive lending is the most dynamic form of self-lending. It allows you to increase exposure and borrowing capacity by continually borrowing against assets and reinvesting the borrowed funds.
 
@@ -101,8 +98,6 @@ In recursive lending, you:
 5. Repeat the cycle, amplifying exposure and leverage.
 
 This strategy multiplies your positions without needing additional capital but comes with the **risk of liquidation** if collateral ratios drop too low.
-
----
 
 ## How to Use Self-Lending with Leading Protocols
 
@@ -164,7 +159,7 @@ Teller Protocol is focused on **credit-based loans** and offers opportunities to
 - **Passive income generation**: Teller Protocol provides a steady stream of passive income from lending, with your assets remaining protected.
 
 ---
-# **Leverage Trading vs. 1:1 Spot Trading**
+## **Leverage Trading vs. 1:1 Spot Trading**
 
 Now that you have a basic understanding of lending, borrowing, recursive lending, and collateral stacking, it’s time to understand how these concepts fit into the broader context of leverage trading compared to **1:1 spot trading**.
 
@@ -224,7 +219,7 @@ Leveraged positions require constant monitoring, as they can quickly become liqu
 
 ----------
 
-# **Why Risk Management is Crucial for Budgeting and Investing?**
+### **Why Risk Management is Crucial for Budgeting and Investing?**
 
 In order to budget effectively and make smart investment decisions, understanding how to manage risk is fundamental. Risk management in trading correlates with budgeting because it forces you to plan for worst-case scenarios. By applying the principles of risk management, you can avoid overextending yourself financially and ensure that you’re able to weather market volatility without jeopardizing your financial well-being.
 
@@ -232,7 +227,7 @@ Risk management teaches you the discipline needed to protect your capital and al
 
 ---
 
-# Conclusion: The Interconnection of All These Concepts
+## Conclusion: The Interconnection of All These Concepts
 
 Understanding lending, borrowing, recursive lending, collateral stacking, and the difference between leverage and 1:1 spot trading is crucial for developing a solid foundation in financial markets. However, these concepts are all intertwined and depend heavily on effective **risk management**.
 
@@ -242,25 +237,22 @@ By mastering **risk management**, you'll be in a position to approach both inves
 
 Self-lending in DeFi enables you to leverage your existing assets to maximize returns and exposure. Whether you use **recursive lending**, **collateral stacking**, or **self-repaying loans**, you can employ **OPM** to grow your portfolio, generate passive income, and increase your borrowing capacity without requiring new capital.
 
-
 ### Key Takeaways:
 
-| **Concept**                   | **Explanation**                                                                 |
-|-------------------------------|---------------------------------------------------------------------------------|
-| **Self-Lending**               | Borrowing funds while using your crypto assets as collateral, avoiding the need to sell them. |
-| **OPM (Other People’s Money)** | Borrowing capital to invest without using your own funds.                      |
-| **Collateralization**          | Using assets as security for a loan, which may be forfeited if the loan is not repaid. |
-| **Leverage**                   | Borrowing funds to amplify exposure to an asset or investment, allowing for greater profit potential but also higher risk. |
-| **Recursive Lending**          | The practice of borrowing repeatedly and reinvesting those funds to increase exposure and borrowing power. |
-| **Self-Repaying Loans**        | Loans that automatically pay themselves off using the yield generated from the collateral. |
-| **Passive Income**             | Earning income from assets without active involvement, often through lending or staking. |
-| **Risk Management**            | Monitoring and maintaining a safe collateral-to-loan ratio to avoid liquidation. |
-| **Loan-to-Value (LTV) Ratio**  | The ratio of the loan amount to the value of the collateral securing the loan.  |
-| **Liquidation Risk**           | The potential loss of collateral if its value drops below a certain threshold. |
-| **Yield Farming and Staking**  | Providing liquidity or locking assets to earn rewards or interest.            |
-| **Debt Repayment Strategies**  | Approaches for repaying borrowed funds, either automatically or manually.     |
-| **Spot Trading**               | Buying and selling assets for immediate delivery, typically at the current market price, without leverage. |
-| **Leverage Trading**           | Borrowing funds to increase the size of a trade, amplifying both potential profits and risks. There are many types of leverage trading, including: <br> - **Margin Trading**: Borrowing funds from an exchange to trade larger positions than your available crypto balance. Example: Borrowing 1 BTC to trade 2 BTC on a platform like Binance, effectively using 2x leverage. <br> - **Futures Trading**: Using a contract to buy or sell a crypto asset at a predetermined price in the future, with leverage. Example: Using 10x leverage to control a $10,000 Bitcoin position with only $1,000 of your own capital on a platform like Kraken. <br> - **Perpetual Swaps**: A type of futures contract with no expiration, used to trade crypto with leverage. Example: On platforms like Bybit, you can use leverage to trade perpetual Bitcoin contracts, potentially controlling a $50,000 position with only $5,000 of your own funds.
+| **Key Concept**              | **Description**                                                                 |
+|------------------------------|---------------------------------------------------------------------------------|
+| **Self-Lending**              | Borrowing funds using your crypto assets as collateral without selling them.    |
+| **OPM (Other People’s Money)**| Borrowing funds to invest without using your own capital.                       |
+| **Collateralization**         | Using assets as security for a loan, which is forfeited if the loan isn’t repaid.|
+| **Leverage**                  | Borrowing funds to increase your exposure to an asset or investment.            |
+| **Recursive Lending**         | Continuously borrowing and reinvesting funds to increase exposure and borrowing capacity. |
+| **Self-Repaying Loans**       | Loans that automatically repay themselves using the yield generated from collateral. |
+| **Passive Income**            | Earning income from assets without actively managing them, often through lending or staking. |
+| **Risk Management**           | Ensuring that your collateral-to-loan ratio is safe to avoid liquidation.      |
+| **Loan-to-Value (LTV) Ratio** | The ratio of the loan amount to the value of the collateral.                    |
+| **Liquidation Risk**          | The risk of losing collateral if its value falls below a certain threshold.    |
+| **Yield Farming and Staking** | Providing liquidity or staking assets to earn rewards or interest.             |
+| **Debt Repayment Strategies** | Methods to repay borrowed funds, including automatic or manual repayment.     |
 
 ---
 
