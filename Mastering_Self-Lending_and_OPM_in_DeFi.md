@@ -272,7 +272,7 @@ Self-lending in DeFi enables you to leverage your existing assets to maximize re
 | **Collateral Types**             | 💰 **Diverse**: Accepts multiple ERC-20 tokens. | 🧮 **Stablecoin-Focused**: Borrow alUSD/alETH with DAI or ETH. | 🎯 **Flexible**: Based on user credit and asset pool. |
 | **Flexibility in Loan Terms**    | 🎛️ **Very Flexible**: Adjust with Aave/Compound parameters. | 📋 **Fixed**: No change once borrowed. | 🕒 **Fixed (3-month max)**: But manual control on new loans. |
 | **Passive Income**               | 💸 **Deposit & Earn**: Earn yield on idle assets via Aave/Compound. | ⏳ **Self-Repayment Yield**: DAI earns to repay alUSD/alETH. | 💵 **Lender Yield**: Earn interest from borrowers based on credit. |
-| **Protocol Transparency**        | 🌐 **Highly Transparent**: Built on open, established protocols. | 📖 **Fully Audited & Open Source**. | 🔍 **Transparent + Governed** by DAO. |
+| **Protocol Transparency**        | 🌐 **Highly Transparent**: Built on open, established protocols. | 📖 **Fully Audited & Open Source**. | 🔍 **Transparent + Currently Governed** by the core team (plan for DAO eventually). |
 | **Best For**                     | 🧠 **Advanced Users** wanting leverage and capital efficiency. | 🛌 **Passive Users** who prefer auto-repaying loans. | 🧾 **Credit-Focused Users** needing borrowing options without over-collateralization. |
 --- 
 
