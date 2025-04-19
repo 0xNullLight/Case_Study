@@ -4,7 +4,7 @@
 ### **Abstract**
 This case study analyzes two pivotal confrontations in which non-state actors challenged the economic strategies of sovereign powers:  
 1. **George Soros’ speculative assault on the British Pound during the 1992 ERM crisis**  
-2. **Donald Trump’s tariff escalation against China in a hypothetical 2025 trade standoff**
+2. **Donald Trump’s tariff escalation against China IN A HYPOTHETICAL 2025 trade standoff**
 
 Despite differing methods—currency speculation vs. trade policy—both confrontations highlight the power of individuals or quasi-state actors in influencing national economic systems. This study explores the mechanics, effects, and policy responses involved in these cases.
 
@@ -74,7 +74,7 @@ Both cases follow a similar trajectory in which strategic actions lead to signif
 
 ---
 
-### **✅ Lessons Learned**
+### **✅ Lessons Learned [from gpt]**
 
 #### **From Soros vs. BoE (1992)**
 
