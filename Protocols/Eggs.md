@@ -6,6 +6,22 @@
 
 ----------
 
+## ❓ Why EGGS?
+
+EGGS Finance offers a unique way to **unlock liquidity without sacrificing yield**.
+
+-   🧊 **Don't sell your S tokens** – Keep earning native staking rewards.
+    
+-   🥚 **Mint EGGS** – Use it as liquid capital while your assets stay staked.
+    
+-   💡 **Efficient capital use** – Put your EGGS to work: LPing, farming, or spending.
+    
+-   🛡️ **Self-repaying potential** – If yield from your S token grows fast enough, it could cover your EGGS debt over time.
+    
+In short: **EGGS = Liquid yield-backed borrowing without giving up your stake.**
+
+----------
+
 ## 🧩 Core Concepts
 
 ### ✅ S Tokens
